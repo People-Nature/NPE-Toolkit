@@ -20,7 +20,9 @@ No prior business expertise is required.
 How to Use
 
 Use the toolkit sequentially when developing a new enterprise, or dip into specific sections as needed
+
 Adapt tools and templates to local contexts
+
 Use case studies for learning, training, and reflection
 
 Citation
